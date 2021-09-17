@@ -9,8 +9,9 @@ Requirements of the code consist of taking the correct equations for the algorit
 
 # Pseudo Code
 The first step in the code would consist of making input statements with given string values that can be used all throughout the algorithm. This will allow there to be input values, which we will use further within the algorithm. After we get the input statements, there will have to be a couple lines of code where we assign the values of the sections (Homework, Tests, Cengage, and Projects) with the given highest percentage possible. There should also be an if else statement or loop to make sure there isn't a number value given higher than the said percentage or lower than 0%. Then, there will be an equation that takes all the input statements and calculates them to make a final grade that will then be outputted by the system to the user. 
+
 # Implementation and Testing
-Testing and changing code
+Testing and changing code based on any errors that are given back to the user after running the algorithm. Also, test the inputs and output values multiple times with different values to confirm that there are a minimal quantity of errors or miscalculations and then try to fix those. 
 
 # Author
-Jacob Paquette
+Jacob Paquette -- https://github.com/EngineerJP 
